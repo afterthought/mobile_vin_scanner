@@ -19,7 +19,7 @@ id reference into Scanner.java before building their projects.
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="com.bees4honey.vinscanner"
         version="1.0.0">
-
+      <description>Nothing now</description>
   <name>Bees4Honey</name>
 
   <platform name="android">
